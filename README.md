@@ -16,11 +16,10 @@
 
   </div>
 
-  <h3 align="center">Apple Mabook Website</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <div align="center">
+  👋 Hi, I'm <b>Sofiqul Islam</b>, a passionate Frontend Developer and B.Tech student.
+  This project showcases a modern Apple MacBook landing page built using
+  React, GSAP, Three.js, Tailwind CSS, and Vite.
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -29,25 +28,24 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+   
 
-## 🚨 Tutorial
+## 👨‍💻 About This Project
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This Apple MacBook Landing Page is a modern and interactive web application inspired by Apple's official website.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+Built using React, Three.js, GSAP, Tailwind CSS, and Vite, the project focuses on smooth animations, immersive 3D visuals, responsive design, and an engaging user experience.
 
-<a href="https://youtu.be/DEeaT6FxEws" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+### Key Highlights
 
-## <a name="introduction">✨ Introduction</a>
+- Apple-inspired UI design
+- Smooth GSAP animations
+- Interactive 3D MacBook model
+- Responsive layout
+- Modern React architecture
+- Optimized performance
 
-Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showcase products in immersive 3D scenes, scroll-animated models, and pinned sections. Featuring responsive design, smooth timeline animations, and visually striking image transitions—perfect for developers creating interactive, modern web experiences.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
+Developed by **Sofiqul Islam**.
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **[CodeRabbit](https://jsm.dev/mbook-coderabbit)** is an AI-powered code review tool that integrates with IDEs like VS Code and Git platforms such as GitHub and GitLab. It provides real-time, context-aware feedback on pull requests, including line-by-line analysis, security vulnerability detection, and adherence to coding standards. CodeRabbit learns from your team's preferences, adapting its reviews over time to enhance code quality and developer productivity.
@@ -119,21 +117,3 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="links">🔗 Assets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/mbook-kit)**.
-
-<a href="https://jsm.dev/mbook-kit" target="_blank">
-  <img src="public/readme/videokit.webp" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/mbook-jsm" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
